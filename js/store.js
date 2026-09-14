@@ -13,7 +13,7 @@
   };
 
   var DEFAULT_SETTINGS = {
-    whatsapp: '5562999999999',
+    whatsapp: '5561992414454',
     title: 'NUNESCAR',
     subtitle: 'Elética Automotiva & Acessórios',
     logo: '',
