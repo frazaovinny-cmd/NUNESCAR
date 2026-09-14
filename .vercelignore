@@ -1,0 +1,6 @@
+.git
+.gitignore
+.vercelignore
+README.md
+*.log
+gh-*.txt
